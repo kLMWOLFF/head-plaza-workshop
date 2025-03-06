@@ -29,3 +29,6 @@ Creative Apps
 
 Documents
 * [Scenography Project Offer Type](https://docs.google.com/document/d/1sDBkE7SMr0mNzVs3LuPPQbJm1-xO4hqjgdtbWPR451I/edit?usp=sharing)
+
+Build examples
+* [Motorized Camera Rig](https://www.instructables.com/Make-a-Motorised-Pan-and-Rotate-Camera-Slider/)
