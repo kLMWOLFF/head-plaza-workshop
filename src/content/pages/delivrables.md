@@ -3,7 +3,7 @@ title: "Delivrables"
 description: ""
 ---
 
-## PDF Presentation 
+## PDF for Plaza 
 Use the Soft Robots template as a starting point—link in Discord
 * Project Title Card
 * Description
@@ -15,6 +15,8 @@ Use the Soft Robots template as a starting point—link in Discord
 * Title
 * One sentence description
 * Demo
+* User Journey
+* Contextual 3D or image (physical size, scale)
 * Q&A
 
 ## Website 
