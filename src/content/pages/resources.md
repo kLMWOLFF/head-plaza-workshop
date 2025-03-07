@@ -37,3 +37,5 @@ Creative Apps
 Build examples
 * [Motorized Camera Rig](https://www.instructables.com/Make-a-Motorised-Pan-and-Rotate-Camera-Slider/)
 
+AI Tools
+* [Eleven Labs](https://elevenlabs.io/) – Realistic Text to Speech
