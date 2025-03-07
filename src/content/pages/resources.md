@@ -3,6 +3,9 @@ title: "Resources"
 description: ""
 ---
 
+Web Tools (used in this project)
+* [Web Tools](/git-recap)
+
 Shot Finders
 * [Shot Deck](https://shotdeck.com/) – Best shot finder database, no video export
 * [Shot Cafe](https://shot.cafe/) – Free Shot Library 180 films
