@@ -6,6 +6,10 @@ description: ""
 Web Tools (used in this project)
 * [Web Tools](/git-recap)
 
+Documentation
+* [Scenography Project Offer Type](https://docs.google.com/document/d/1sDBkE7SMr0mNzVs3LuPPQbJm1-xO4hqjgdtbWPR451I/edit?usp=sharing)
+* [HTMAA](https://fab.cba.mit.edu/classes/863.22/index.html) – See student projects
+
 Shot Finders
 * [Shot Deck](https://shotdeck.com/) – Best shot finder database, no video export
 * [Shot Cafe](https://shot.cafe/) – Free Shot Library 180 films
@@ -29,10 +33,6 @@ Database
 Creative Apps
 * [Video Grep](https://antiboredom.github.io/videogrep/) – Supercuts based subtitles
 * [Needs More Boom](https://needsmoreboom.com/) - Michael Bay script writer
-
-Documentation
-* [Scenography Project Offer Type](https://docs.google.com/document/d/1sDBkE7SMr0mNzVs3LuPPQbJm1-xO4hqjgdtbWPR451I/edit?usp=sharing)
-* [HTMAA](https://fab.cba.mit.edu/classes/863.22/index.html) – See student projects
 
 Build examples
 * [Motorized Camera Rig](https://www.instructables.com/Make-a-Motorised-Pan-and-Rotate-Camera-Slider/)
